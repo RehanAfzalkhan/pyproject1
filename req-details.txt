@@ -1,0 +1,3 @@
+#NumPy
+pip install numpy
+installed packages:NumPy 
